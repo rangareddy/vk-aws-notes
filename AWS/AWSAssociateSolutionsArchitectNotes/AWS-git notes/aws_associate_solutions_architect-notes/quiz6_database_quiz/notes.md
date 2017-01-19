@@ -76,18 +76,31 @@ What AWS DB platform is most suitable for OLTP?
 In RDS when using multiple availability zones, can you use the secondary database as an ind
 
 ------------------------------------------------------------------------------------------------
-mazon's Redshift uses which block size for its columnar storage?
+Amazon's Redshift uses which block size for its columnar storage?
+
 Which database engines support Multi-AZ?
+
 Which RDS database engines support Read Replicas?
+
 You need to install Microsoft SQL Server Enterprise edition on RDS, what should you do?
+
 You are making a new web application which will be stateless (i.e. it will not store session data locally). What AWS services can you use to store session data.
+
 When replicating data from your primary RDS instance to your secondary RDS instance, what is the charge?
+
 This one I can look in the AWS console - When you add a rule to an RDS security group you do not need to specify a port number or protocol?
+
 If you are using Amazon RDS Provisioned IOPS storage with MySQL and Oracle database engines what is the maximum size RDS volume you can have by default?
+
 By default, the maximum provisioned IOPS capacity on an Oracle and MySQL RDS instance (using provisioned IOPS) is 30,000 IOPS.
 In RDS, what is the maximum value I can set for my backup retention period?
+
 In what circumstances would I choose provisoned IOPS in RDS over standard storage?
+
 If you want your application to check whether a request generated an error then you look for an ______ node in the response from the Amazon RDS API
+
 In RDS, changes to the backup window take effect when?
+
 In RDS what is the maximum size for a Microsoft SQL Server DB Instance with SQL Server Express edition?
+
 How many copies of my data does RDS - Aurora store by default?
