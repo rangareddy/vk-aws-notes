@@ -121,5 +121,5 @@ https://linuxclouds.blogspot.com/2016/02/sample-questions-and-answers-for-aws.ht
 
 http://aws-in-abundance.blogspot.com/2016/05/q-a.html
 
-
+http://techblogsearch.com/a/sample-questions-and-answers-for-aws-associate-solutions-architect-certification.html
 
