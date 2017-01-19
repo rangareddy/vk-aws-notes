@@ -64,15 +64,24 @@ false
 
  What you know 
 When replicating data from your primary RDS instance to your secondary RDS instance, what is the charge?
+
 What AWS service is best suited for non relational databases?
+
 When you add a rule to an RDS security group you do not need to specify a port number or protocol?
+
 If you are using Amazon RDS Provisioned IOPS storage with MySQL and Oracle database engines what is the maximum size RDS volume you can have by default?
+
 What happens to the I/O operations while you take a database snapshot
+
 What AWS service is best used for Business Intelligence Tools/Data Warehousing?
+
 Amazon's Elasticache uses which two engines?
+
 By default, the maximum provisioned IOPS capacity on an Oracle and MySQL RDS instance (using provisioned IOPS) is 30,000 IOPS.
+
  What you should review
 What AWS DB platform is most suitable for OLTP?
+
 In RDS when using multiple availability zones, can you use the secondary database as an ind
 
 ------------------------------------------------------------------------------------------------
@@ -104,3 +113,13 @@ In RDS, changes to the backup window take effect when?
 In RDS what is the maximum size for a Microsoft SQL Server DB Instance with SQL Server Express edition?
 
 How many copies of my data does RDS - Aurora store by default?
+
+
+http://jayendrapatil.com/aws-rds-replication-multi-az-read-replica/
+
+https://linuxclouds.blogspot.com/2016/02/sample-questions-and-answers-for-aws.html
+
+http://aws-in-abundance.blogspot.com/2016/05/q-a.html
+
+
+
