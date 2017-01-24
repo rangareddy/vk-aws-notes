@@ -1,5 +1,18 @@
 databases 101
 
+------------------------------------------------------------
+
+Choose the storage type most suited for your workload.
+
+High-performance OLTP workloads: Amazon RDS Provisioned IOPS (SSD) Storage
+
+Database workloads with moderate I/O requirements: Amazon RDS General Purpose (SSD) Storage
+
+Small database workloads with infrequent I/O: Amazon RDS Magnetic Storage
+
+------------------------------------------------------------
+
+
 5 diffrent database services availabe
 
 rds
