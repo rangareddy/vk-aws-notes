@@ -1,0 +1,29 @@
+The Journey Begins 
+http://pivotaljourney.blogspot.com/2014/10/the-journey-begins.html
+
+Cloud Foundry
+http://pivotaljourney.blogspot.com/2015/10/pivotal-cloud-foundry.html
+
+Microservices with Spring Boot and Spring Cloud Services:
+http://pivotaljourney.blogspot.com/2016/06/microservices-with-spring-boot-spring.html
+
+Security with Pivotal Cloud Foundry
+http://pivotaljourney.blogspot.com/2016/02/security-for-pivotal-cloud-foundry.html
+
+
+
+
+https://www.youtube.com/watch?v=am3YoQfzcAE
+
+
+
+
+Cloud Foundry
+Cloud Foundry was an obvious first choice for me. It is backed by a big name, VMWare. This is the same company behind everything I'm using: Groovy, Grails, Spring Framework and my current IDE, SpringSource Tool Suite. What's interesting is that Cloud Foundry is open source, sort of an operating system for PaaS. PaaS vendors like AppFog will be offering Cloud Foundry based services.
+
+Cloud Foundry offers services like MySQL, PostgreSQL, Redis, MongoDB, RabbitMQ, and will run applications running on many platforms: Java, Ruby, Node.js, PHP and Python. It is becoming the One Cloud to rule them all: all services, all platforms, all vendors. It's an ambitious, impressive project that has gained the support of a number of companies.
+
+The primary provisioning is a Ruby-based command line tool, but other plugins are available. I have been using the plugin for SpringSource Tool Suite, which lets me deploy from the IDE with just a click. There is also a Grails plugin. What it does not have is a web UI. Deploying with Cloud Foundry is pretty slick, especially with the auto configuration. If I provision a specific database, the act of pushing out my Grails app will automatically configure it with a datasource for that database. I did not need to specify the database connection parameters.
+
+Cloud Foundry has been in a free beta stage for a long time now. One one hand, this allowed it to build a big following. It's so easy to get an app up and running there, and it's been free all this time. On the other hand, it still lacks some things for true production use. The deal breaker for me is the lack of custom domain name support. While you can provision multiple instances of your application node, I also don't know what their plans are for scaling their services, such as when you need a clustered database backend.
+
